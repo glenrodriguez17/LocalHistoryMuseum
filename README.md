@@ -1,5 +1,5 @@
 Local History Museum Project
-This Project was ,ade for a CIS database project
+This Project was made for a CIS database project
 
 Project Details
 This database copies a model of a Local History Museum including
